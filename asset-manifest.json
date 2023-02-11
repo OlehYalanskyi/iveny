@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iveny/static/css/main.1b1f9957.css",
-    "main.js": "/iveny/static/js/main.81509970.js",
+    "main.css": "/iveny/static/css/main.f3f4f485.css",
+    "main.js": "/iveny/static/js/main.374c0862.js",
     "static/media/header-bg.jpg": "/iveny/static/media/header-bg.81cf46989ed977002870.jpg",
     "index.html": "/iveny/index.html",
-    "main.1b1f9957.css.map": "/iveny/static/css/main.1b1f9957.css.map",
-    "main.81509970.js.map": "/iveny/static/js/main.81509970.js.map"
+    "main.f3f4f485.css.map": "/iveny/static/css/main.f3f4f485.css.map",
+    "main.374c0862.js.map": "/iveny/static/js/main.374c0862.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b1f9957.css",
-    "static/js/main.81509970.js"
+    "static/css/main.f3f4f485.css",
+    "static/js/main.374c0862.js"
   ]
 }
